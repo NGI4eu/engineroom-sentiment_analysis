@@ -9,7 +9,7 @@ Methods available to run without the English LIWC dictionary:
  
      - Input: list of articles.
               
-     - Return: Visualization of the values of the sentiment analysis of the given articles.
+     - Output: Visualization of the values of the sentiment analysis of the given articles.
               
      ![alt text](https://github.com/NGI4eu/engineroom-sentiment_analysis/blob/master/images/visualization_sentiments.png)
 
