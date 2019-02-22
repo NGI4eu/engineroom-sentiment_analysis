@@ -3,6 +3,8 @@ Sentiment analysis applied to some words of the Reddit dataset.
 
 The English LIWC dictionary is needed to run a part of this Jupyter. For seeing and playing with the last Visualization, is not needed.
 
+There is a folder ("data"), where you can find:
+
 There is a file in the folder "data" with the list of the keywords analyzed: reddit_keywords.txt
 
 
