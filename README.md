@@ -26,6 +26,7 @@ The available options are:
 - num_comments: Number of comments avaluated for each of the keywords.
 - num_deleted: Number of deleted comments by the author.
 - num_removed: Number of removed comments by Reddit moderators.
+
  And the following emotions or verb tenses: 
  
  ![alt text](https://github.com/NGI4eu/engineroom-sentiment_analysis/blob/master/images/table_sentiments.png)
