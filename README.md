@@ -20,4 +20,4 @@ plot_monthly_multiple_sentiments(['deletefacebook', 'brain-computer interface', 
 ```
 ![alt text](https://github.com/NGI4eu/engineroom-sentiment_analysis/blob/master/images/reddit_monthly_multiple_sentiments.png)
 
-
+The X-axis shows the month, and the Y-axis shows the sentiment that you have selected in the tab. 
